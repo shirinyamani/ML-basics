@@ -1,4 +1,4 @@
-# ML-notes to self
+# ML-notes to self 🤓
 
 # Content
 
